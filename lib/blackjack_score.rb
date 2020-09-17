@@ -44,5 +44,3 @@ def blackjack_score(hand)
 
   return sum
 end
-
-puts blackjack_score(["Jack", "Ace"])
